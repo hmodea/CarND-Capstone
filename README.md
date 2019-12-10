@@ -3,7 +3,7 @@ This is the project repo for the final project of the Udacity Self-Driving Car N
 Please use **one** of the two installation options, either native **or** docker installation.
 
 ### Team Members
-Hany ElShahawy (Team Lead), email: hany_s4p@hotmail.com
+Hany ElShahawy (Team Lead), email: hany_s4p@hotmail.com  
 Haytham Modea, email: haytham.modea@gmail.com
 
 ### Native Installation
