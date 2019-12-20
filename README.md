@@ -4,8 +4,9 @@ Please use **one** of the two installation options, either native **or** docker 
 
 ### Team Members
 Hany ElShahawy (Team Lead), email: hany_s4p@hotmail.com  
-Haytham Modea, email: haytham.modea@gmail.com
+Haytham Modea, email: haytham.modea@gmail.com  
 Monika Florek-Jasinska, email: florek.jasinska@gmail.com
+Usman Sheik, email: usmanabu314@gmail.com  
 
 ### Native Installation
 
